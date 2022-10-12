@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.6627258d.css",
-    "main.js": "./static/js/main.31251d73.js",
+    "main.css": "./static/css/main.5da6f89a.css",
+    "main.js": "./static/js/main.94d5c294.js",
+    "static/media/Barcelona-background.jpg": "./static/media/Barcelona-background.c7f34d7f88ede13aa471.jpg",
+    "static/media/Tokyo-background.jpg": "./static/media/Tokyo-background.61dae946f37cb94ac44a.jpg",
+    "static/media/India-background.jpg": "./static/media/India-background.f8bbfc70a70cb670e830.jpg",
+    "static/media/London-background.jpg": "./static/media/London-background.65162f9c043733518913.jpg",
+    "static/media/Suisse-background.jpg": "./static/media/Suisse-background.b487795fb8dc9b513705.jpg",
     "static/media/tooltip.svg": "./static/media/tooltip.fc9314679ae9314f6836.svg",
     "index.html": "./index.html",
     "static/media/passenger-control-add.svg": "./static/media/passenger-control-add.167b243ad7538a360dd6.svg",
     "static/media/passenger-control-sub.svg": "./static/media/passenger-control-sub.110356a17e5006fbb713.svg",
-    "main.6627258d.css.map": "./static/css/main.6627258d.css.map",
-    "main.31251d73.js.map": "./static/js/main.31251d73.js.map"
+    "static/media/right-arrow.svg": "./static/media/right-arrow.f1dc069f4848f1bdd1c9.svg",
+    "static/media/left-arrow.svg": "./static/media/left-arrow.10e185318c1a76ad6ccd.svg",
+    "main.5da6f89a.css.map": "./static/css/main.5da6f89a.css.map",
+    "main.94d5c294.js.map": "./static/js/main.94d5c294.js.map"
   },
   "entrypoints": [
-    "static/css/main.6627258d.css",
-    "static/js/main.31251d73.js"
+    "static/css/main.5da6f89a.css",
+    "static/js/main.94d5c294.js"
   ]
 }
